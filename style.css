@@ -46,3 +46,9 @@ input {
 input:focus {
     border-color: darkorchid;
 }
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
