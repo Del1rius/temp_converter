@@ -44,3 +44,10 @@ input {
 input:focus {
     border-color: darkorchid;
 }
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    color: white;
+}
